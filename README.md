@@ -8,9 +8,9 @@ JAVA와 Spring을 기반으로 백엔드 개발을 공부하며, 학습과 개�
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
 
 ## 🗓️ 활동
-▪️**21.03 ~ ing** - 명지대학교 컴퓨터공학과 재학 (21.03 ~ ing)    
-▪️**25.03 ~ 2025.08** - University MakeUs Challenge(UMC) 8th Server 파트원    
-▪️**25.05** - <a href="https://github.com/Ne-O-rdinary-D">너디너리 해커톤(8th Ne(o)rdinary HACKATHON)</a> **대상**🏆  
-▪️**25.08** - UMC CHALLENGER **베스트 파트원**🏆   
-▪️**25.09 ~ ing** - 잇타(IT’s TIME) 8th Backend  
+▪️명지대학교 컴퓨터공학과 재학 <sub>(21.03 ~ ing)</sub>      
+▪️University MakeUs Challenge(UMC) 8th Server <sub>(25.03 ~ 2025.08)</sub>     
+▪️<a href="https://github.com/Ne-O-rdinary-D">너디너리 해커톤(8th Ne(o)rdinary HACKATHON)</a> **대상**🏆<sub> (25.05)</sub>  
+▪️UMC CHALLENGER **베스트 파트원**🏆<sub> (25.08)</sub>     
+▪️잇타(IT’s TIME) 8th Backend <sub>(25.09 ~ ing)</sub>    
 
